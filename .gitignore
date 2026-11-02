@@ -1,0 +1,13 @@
+uv.lock
+open_duck_reference_motion_generator/__pycache__/
+MUJOCO_LOG.TXT
+open_duck_reference_motion_generator/robots/dcubot/placo_presets/tmp/__pycache__/
+.venv/
+
+# Raw sweep recordings: large (100MB+ each) and fully regenerable from
+# auto_gait.json + the robot's own URDF via auto_waddle.py --sweep (see
+# rl_training/docs/CHANGES_FROM_ORIGINAL.md for the exact command used).
+recordings_omnidirectional/
+recordings_omnidirectional_measured/
+recordings_omnidirectional_newurdf/
+open_duck_reference_motion_generator/robots/dcubot/placo_presets/tmp/

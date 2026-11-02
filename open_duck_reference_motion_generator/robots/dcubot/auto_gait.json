@@ -1,0 +1,25 @@
+{
+  "slow": -0.001,
+  "medium": 0.15,
+  "fast": 0.35,
+  "dx_max": [
+    0,
+    0.05
+  ],
+  "dy_max": [
+    0,
+    0.05
+  ],
+  "dtheta_max": [
+    0,
+    0.25
+  ],
+  "min_sweep_x": -0.04,
+  "max_sweep_x": 0.06,
+  "min_sweep_y": -0.06,
+  "max_sweep_y": 0.0599,
+  "min_sweep_theta": -0.4,
+  "max_sweep_theta": 0.4,
+  "sweep_xy_granularity": 0.02,
+  "sweep_theta_granularity": 0.2
+}
